@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Python version:  2.7
+# GUI by designer-qt4
 
 from __future__ import print_function
 from PyQt4 import QtCore, QtGui
